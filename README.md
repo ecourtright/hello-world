@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-Hubot the robot here! I like node.js and tacos. 
+Hubot the robot here! I like node.js and TacoScript
